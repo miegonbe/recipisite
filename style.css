@@ -61,7 +61,7 @@ ul{list-style: none;
 .sns{
   display: flex;
   justify-content: center;
-  padding-left: 0;
+  padding-left: 16px;
   padding-bottom: 20px;
 }
 
@@ -74,6 +74,12 @@ li{
 
 .instagram{
   padding-left: 0;
+}
+.twitter{
+  padding-left: 16px;
+}
+.facebook{
+  padding-left: 16px;
 }
 .footer{
   font-size: 13px;
